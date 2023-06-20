@@ -19,7 +19,9 @@ If candidate control lines are provided, the underlying SDI, PCL, and LSI values
 - LSI png and kml (for Google Earth)
 - PCL and SDI quantiles table
 - Summary maps and histograms
-![image](https://github.com/bengannon-fc/Line_suitability_index/assets/81584637/982f9ba0-c63e-486f-9098-2354bc8da1ec)
 - Candidate control line shapefile (if requested)
+  
+![image](https://github.com/bengannon-fc/Line_suitability_index/assets/81584637/982f9ba0-c63e-486f-9098-2354bc8da1ec)
+
 
 
