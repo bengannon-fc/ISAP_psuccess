@@ -4,6 +4,9 @@ Line Suitability Index (LSI) is a relative metric of wildfire control line quali
 PCL and SDI rasters needed for the analysis can be found on the Risk Management Assistance SharePoint site.
 https://firenet365.sharepoint.com/sites/RiskManagementAssistance/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FRiskManagementAssistance%2FShared%20Documents%2FRMA%20Dashboard&p=true&ga=1
 
+<b>Code distribution</b><br>
+Users are encouraged to download and unzip the current version of the LSI analysis (LSI_v6.zip). The folder contains the LSI analysis script in the R language for statistical computing and graphics. The script was developed in R version 4.2.2. The script requires the terra, readxl, and plyr packages. The required packages will be installed automatically when the script is run, but new R users will have to set up a library folder first. The input folder contains template analysis area and analysis line shapefiles. The output folder contains optional layer files for visualizing outputs in ArcPro (users will have to set the paths to the data sources) and an optional legend to add to Google Earth output.
+
 <b>Inputs</b><br>
 The inputs include PCL and SDI rasters, an LSI classification matrix, a user defined analysis area shapefile, and an optional user defined shapefile of candidate control lines to evaluate. The SDI and PCL rasters must have the same spatial reference, resolution, and cell alignment. User defined shapefiles can be in any spatial reference as long as it is defined. 
 
