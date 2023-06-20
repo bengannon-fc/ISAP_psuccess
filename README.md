@@ -1,2 +1,2 @@
 # Line Suitability Index (LSI)
-Line Suitability Index (LSI) is a relative index intended for wildfire containment strategy development. I
+Line Suitability Index (LSI) is a relative metric of wildfire control line quality based on a quantile-normalized combination of Potential Control Location Suitability (PCL) and Suppression Difficulty Index (SDI). PCL is a statistical modeling framework for estimating control potential by relating observations of past fire control successes and failures to landscape characteristics (e.g., fuels, topography, and accessibility).  
